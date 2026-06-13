@@ -48,7 +48,7 @@ De acuerdo con los lineamientos establecidos para la evaluación del parcial, el
 ## Instrucciones de Ejecución General
 1.  Clonar este repositorio en su entorno local:
     ```bash
-    git clone https://github.com/[Usuario]/ECBD-Emmanuel.git
+    git clone https://github.com/its-emma08/ECBD-Emmanuel.git
     ```
 2.  Instalar las dependencias de Python necesarias:
     ```bash
